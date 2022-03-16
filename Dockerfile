@@ -1,3 +1,3 @@
 #FROM centos:latest
-FROM redis:windowsservercore
+FROM python:windowsservercore-ltsc2022 
 LABEL JOB_NAME="Azure Test Jill Windows"
