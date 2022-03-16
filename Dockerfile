@@ -1,3 +1,3 @@
 #FROM centos:latest
-FROM  mcr.microsoft.com/windows/nanoserver:1809
+FROM redis:windowsservercore
 LABEL JOB_NAME="Azure Test Jill Windows"
