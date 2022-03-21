@@ -1,3 +1,3 @@
 #FROM centos:latest
-FROM redis:windowsservercore
+FROM redis:3.0.7-windowsservercore
 LABEL JOB_NAME="Azure Test Jill Windows"
